@@ -1,0 +1,20 @@
+Foobar Candy | Olympics 2012 | PGA | CNET | Microsoft Bing | ASCII | IBM 
+Foobar Candy | Olympics 2013 | PGA | CNET | Microsoft Bing | ASCII | IBM
+Foobar Candy | Olympics 2014 | PGA | CNET | Microsoft Bing | ASCII | IBM 
+Foobar Candy | Olympics 2015 | PGA | CNET | Microsoft Bing | ASCII | IBM 
+Foobar Candy | Olympics 2015 | PGA | CNET | Microsoft Bing | ASCII | IBM 
+Foobar Candy | Olympics 2017 | PGA | CNET | Microsoft Bing | ASCII | IBM 
+Foobar Candy | Olympics 2017 | PGA | CNET | Microsoft Bing | ASCII | IBM 
+Foobar Candy | Olympics 2017 | PGA | CNET | Microsoft Bing | UNICODE | IBM 
+Foobar Candy | Olympics 2017 | VGA | CNET | Microsoft Bing | UNICODE | IBM 
+Foobar Candy | Olympics 2016 | VGA | CNET | Microsoft Bing | UNICODE | IBM 
+Foobar Candy | Olympics 2017 | VGA | CNET | Microsoft Bing | UNICODE | IBM 
+Foobar Candy | Olympics 2017 | VGA | CNET | Microsoft Bing | UNICODE | IBM 
+Foobar Candy | Olympics 2017 | VGA | CNET | GOOGLE | UNICODE | IBM 
+Foobar Candy | Olympics 2017 | VGA | CNET | GOOGLE | UNICODE | IBM 
+Foobar Candy | Olympics 2017 | VGA | CNET | GOOGLE | ASCII | IBM 
+Foobar Candy | Olympics 2017 | VGA | CNET | GOOGLE | ASCII | IBM 
+Foobar Candy | Olympics 2017 | VGA | CNET | GOOGLE | ASCII | IBM 
+Foobar Candy | Olympics 2012 | PGA | CNET | Microsoft Bing | ASCII | IBM 
+Foobar Candy | Olympics 2012 | PGA | CNET | Microsoft Bing | ASCII | IBM 
+ 
